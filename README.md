@@ -4,8 +4,8 @@
 
 ---
 
-### 💼 **Currently Working At**
-**Hottrix IT Services Pvt. Ltd.**  
+### 💼 ** Working Professional as a Frellancer**
+ -Designing LLD/HLD System Using MicroServices
 - Working on scalable web & mobile app development  
 - Implementing CI/CD pipelines for automated deployment and integration  
 - Hands-on experience with **AWS**, **GitHub Actions**, and **Docker**
