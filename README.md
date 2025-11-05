@@ -45,7 +45,7 @@
 
 ### 📫 **Reach Me At**
 📧 **rahulkumarsingh****[your email here]**  
-🔗 [LinkedIn Profile](https://linkedin.com/in/rahulkumarsingh)  
+ 
 💻 Portfolio / GitHub Projects(https://techrizex.github.io/PortFolio/))
 
 ---
