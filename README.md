@@ -44,7 +44,7 @@
 ---
 
 ### 📫 **Reach Me At**
-📧 **rahulkumarsingh****[your email here]**  
+📧 rk9600460@gmail.com  
  
 💻 Portfolio / GitHub Projects(https://techrizex.github.io/PortFolio/))
 
